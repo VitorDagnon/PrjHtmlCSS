@@ -1,0 +1,18 @@
+[33mcommit 52a2d1703b17cd8f822fbf60420473bb8c2c9512[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: vitinho0302 <vitor.mestrorocco@gmail.com>
+Date:   Sun May 29 22:31:30 2022 -0300
+
+    mudança na lista
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 590e769..a81179e 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -21,6 +21,7 @@[m
+         <li class="itens">Espaço diferenciado</li>[m
+         <li class="itens">Localizção</li>[m
+         <li class="itens">Profissionais Qualificados</li>[m
+[32m+[m[32m        <li class="itens">Preços acessiveis</li>[m
+     </ul>[m
+ </body>[m
+ </html>[m
